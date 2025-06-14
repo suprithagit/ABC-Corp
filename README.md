@@ -55,3 +55,6 @@ Meet **Alex**, your 24/7 AI-powered voice and chat assistant designed to make yo
 2. **Chat Interaction**: Click the **chat icon (💬)** in the bottom-left corner.
 
 ---
+![image](https://github.com/user-attachments/assets/3fe824c9-a43f-4b00-b3d1-946cf999867c)
+![image](https://github.com/user-attachments/assets/65201668-27cd-4ce1-adae-1f451364ae85)
+
