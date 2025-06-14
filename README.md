@@ -49,8 +49,8 @@ Meet **Alex**, your 24/7 AI-powered voice and chat assistant designed to make yo
 2. **Chat Interaction**: Click the **chat icon (💬)** in the bottom-left corner.
 
 ---
-🧠 AI Tools Used
-This application integrates both chat and voice assistants to provide a seamless support experience for users. Below are the AI tools used in development:
+###🧠 AI Tools Used
+-This application integrates both chat and voice assistants to provide a seamless support experience for users. Below are the AI tools used in development:
 
 ⚙️ 1. Bolt.new : Low-code platform used for building the core application.
 
@@ -61,4 +61,14 @@ This application integrates both chat and voice assistants to provide a seamless
 Screen Shots of above AI Tools:
 ![image](https://github.com/user-attachments/assets/3fe824c9-a43f-4b00-b3d1-946cf999867c)
 ![image](https://github.com/user-attachments/assets/65201668-27cd-4ce1-adae-1f451364ae85)
+---------------------------------------------------------
+App Screenshots
+![image](https://github.com/user-attachments/assets/97492dfe-c995-4ba7-829e-4cfe673a3421)
+![image](https://github.com/user-attachments/assets/5e219875-4877-45fa-a579-c15e3105f54b)
+![image](https://github.com/user-attachments/assets/63dfc437-61c8-484a-8f3c-120a443bd3d5)
+![image](https://github.com/user-attachments/assets/88cc799e-be29-42a6-aa33-4e756e73475d)
+
+
+
+
 
