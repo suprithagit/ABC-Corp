@@ -2,7 +2,8 @@
 
 Welcome to the **ABC Corp** workplace assistant platform.  
 Meet **Alex**, your 24/7 AI-powered voice and chat assistant designed to make your work life **seamless, efficient, and smart**.
-
+---
+🌐 Live App: https://magical-faun-c3cd65.netlify.app
 ---
 
 ## 🚀 Features
@@ -32,29 +33,32 @@ Meet **Alex**, your 24/7 AI-powered voice and chat assistant designed to make yo
 | **👩‍💼 HR Policy Questions**    | Find answers to queries about employment policies, compensation, benefits, and other HR-related topics. |
     
 ---
+## 🧠 Core Services Provided by Alex Chat Assistant
 
-## 🛠️ Tech Stack (Example)
-> Customize this section based on actual implementation.
-
-- **Frontend**: HTML, CSS, JavaScript, React (or Bolt-generated framework)
-- **Voice/Chat Integration**: Web Speech API / Third-party voice SDK
-- **Backend**: (Optional if used) Spring Boot, Node.js, or Make.com integrations
-- **Deployment**: GitHub Pages, Vercel, Netlify, or custom server
-
+| 💼 Service                    | 📝 Description                                                                                          |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **📅 Meeting Room Bookings**       | Easily locate and reserve available meeting rooms for your team’s needs.                                |
+| **🏢 SOPs and Policies Access**    | standard operating procedures and company policies          |
+| **💻 Request Supplies**            | Request office supplies and equipment through Alex.|
+| **🎓 Employee Training Hub         | Explore internal training resources and learning modules.
+| **💰 Submit Expenses**             |Easily submit and track expense reports. |
 ---
-
-## 🔒 Privacy & Availability
-- **Secure & Private**: Conversations are processed securely.
-- **Always On**: Alex is available 24/7 to assist.
-
----
-
 ## 🧑‍💻 How to Use
 
 1. **Voice Interaction**: Click on the **microphone** icon to speak with Alex.
 2. **Chat Interaction**: Click the **chat icon (💬)** in the bottom-left corner.
 
 ---
+🧠 AI Tools Used
+This application integrates both chat and voice assistants to provide a seamless support experience for users. Below are the AI tools used in development:
+
+⚙️ 1. Bolt.new : Low-code platform used for building the core application.
+
+💬 2. Chatling : Development and customization of the Chat Assistant (DemoAssist).
+
+🎙️ 3. Millis.ai: Voice assistant platform used to power Alex, the AI Voice Assistant.
+
+Screen Shots of above AI Tools:
 ![image](https://github.com/user-attachments/assets/3fe824c9-a43f-4b00-b3d1-946cf999867c)
 ![image](https://github.com/user-attachments/assets/65201668-27cd-4ce1-adae-1f451364ae85)
 
