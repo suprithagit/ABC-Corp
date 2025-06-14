@@ -1,6 +1,7 @@
 # ABC Corp – AI Voice & Chat Assistant
 
 Welcome to the **ABC Corp** workplace assistant platform.  
+-------------------------
 Meet **Alex**, your 24/7 AI-powered voice and chat assistant designed to make your work life **seamless, efficient, and smart**.
 ---
 🌐 Live App: https://magical-faun-c3cd65.netlify.app
